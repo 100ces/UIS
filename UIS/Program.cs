@@ -12,7 +12,7 @@
 
         static int NactiCislo(string text = "Zadejte cislo: ", int pocetPokusu = 3, int altHodnota = 0)
         {
-            //pridan komentar
+            //pridan komentar, uprava
             bool povedlose = true;
             int cislo;
             do
