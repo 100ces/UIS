@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        //komentar
         struct TStudent
         {
             public string jmeno;
