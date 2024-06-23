@@ -134,7 +134,7 @@
             do
             {
                 Console.Clear();
-                Console.WriteLine("UIS v 1.1 - MENU");
+                Console.WriteLine("UIS v 1.1dev - MENU");
                 Console.WriteLine("------------------------");
                 Console.WriteLine("Přidat studenta [p]");
                 Console.WriteLine("Vypsat studenta [v]");
